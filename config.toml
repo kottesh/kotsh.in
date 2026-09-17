@@ -1,6 +1,6 @@
 title = "kottesh"
 description = "ratata"
-base_url = "https://kottesh.xyz"
+base_url = "https://kotsh.in"
 
 compile_sass = false 
 build_search_index = true
