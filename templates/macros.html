@@ -1,5 +1,5 @@
-{% macro socials() %}
-    {% for social in config.extra.socials %}
+{% component macros.socials(socials) %}
+    {% for social in socials %}
         <a title="{{- social.title -}}" target="_blank" href="{{- social.link -}}">
             {% if social.title == "linkedin" %}
                 <svg
@@ -58,4 +58,4 @@
             {% endif %}
         </a>
     {% endfor %}
-{% endmacro social %}
+{% endcomponent %}

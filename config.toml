@@ -15,7 +15,6 @@ taxonomies = [
 generate_robots_txt = true
 
 [markdown]
-highlight_code = false 
 render_emoji = true
 external_links_target_blank = true
 external_links_no_follow = false
@@ -23,6 +22,7 @@ external_links_no_referrer = false
 smart_punctuation = true 
 lazy_async_image = false
 bottom_footnotes = true 
+
 
 [slugify]
 paths = "on"
