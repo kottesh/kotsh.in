@@ -1,1 +1,1 @@
-check out here → https://kottesh.xyz
+check out here → https://kotsh.in

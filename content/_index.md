@@ -1,6 +1,6 @@
 +++
 template = "index.html"
-title = "kottesh.xyz"
+title = "kotsh.in"
 +++
 
 ### Hey! I'm Kottesh, a student

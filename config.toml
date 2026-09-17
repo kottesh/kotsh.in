@@ -35,13 +35,12 @@ routes = [
     {name = "home", path = "/"},
     {name = "posts", path = "/posts/"},
     {name = "about", path = "/about/"},
-    {name = "resume", path = "https://cdn.kottesh.xyz/f/resume.pdf"}
+    {name = "resume", path = "https://cdn.kotsh.in/f/resume.pdf"}
 ] 
 
 socials = [
     {title = "github", link = "https://github.com/kottesh"},
     {title = "linkedin", link = "https://linkedin.com/in/kottesh"},
     {title = "x", link = "https://x.com/shreekottes"},
-    {title = "say hi@kottesh.xyz", link = "mailto:hi@kottesh.xyz"},
 ]
 
